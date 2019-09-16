@@ -1,0 +1,12 @@
+{
+  "name": "reactjs-weather-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/edineu/reactjs-weather-app.git",
+  "author": "<edineu@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
